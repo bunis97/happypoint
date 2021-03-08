@@ -103,6 +103,11 @@ h2 {
   box-sizing: border-box;
 }
 
+.map > .mapin > h2 {
+  /* border: 2px solid red; */
+  margin-left: 150px;
+}
+
 #main_visual > .slider > img {
   width: 100%;
 }
